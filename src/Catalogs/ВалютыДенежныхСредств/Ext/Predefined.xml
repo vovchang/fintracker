@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.20">
+	<Item id="426162a5-2536-4c7f-b977-63ff45b89bea">
+		<Name>БелорусскийРубль</Name>
+		<Code>BYN</Code>
+		<Description>Белорусский рубль</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="f096851a-9fd5-4d10-aa5b-f37aac56b18a">
+		<Name>Евро</Name>
+		<Code>EUR</Code>
+		<Description>Евро</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="9250faad-45f7-495b-aa7c-5a7cead2d367">
+		<Name>РоссийскийРубль</Name>
+		<Code>RUB</Code>
+		<Description>Российский рубль</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="04e8da64-6224-40a7-afae-831e78f447ba">
+		<Name>ДолларСША</Name>
+		<Code>USD</Code>
+		<Description>Доллар США</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
